@@ -6,7 +6,8 @@ const leapYears = function(year) {
         return true;
     }
     return false;
-    
+
+    //Testing VIM commit messages
 };
 
 // Do not edit below this line
